@@ -25,6 +25,8 @@ Inspired by Ruslan Spivak's work[1],  the abstract syntax tree (AST) module was 
   
   
 GUI of Simulator
-<img width="964" alt="GUI of Pi-Calculus Simulator" src="https://github.com/Ruikang07/Pi-Calculus-Interpreter-Simulator/blob/b565d8884cb29c95dca2c0e3f57caeab43d9d0a0/figures/picSimulatorGUI.PNG">
-Reference:
+<img width="964" alt="GUI of Pi-Calculus Simulator" src="https://github.com/Ruikang07/Pi-Calculus-Interpreter-Simulator/blob/b565d8884cb29c95dca2c0e3f57caeab43d9d0a0/figures/picSimulatorGUI.PNG">  
+
+Reference:  
+
 [1]Ruslan Spivak,  "Let's Build A Simple Interpreter," https://github.com/rspivak/lsbasi
