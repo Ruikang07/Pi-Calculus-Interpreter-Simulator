@@ -18,9 +18,11 @@ A project of course CISC 465
  
 All π-Calculus expressions in our Interpreter and Simulator have picExpr as the name of its final expression.  
   
-  \begin{figure}[H]
-\centerline{\includegraphics[width=0.8\textwidth]{figures/picInterpreterGUI.PNG}}
-\setlength\abovecaptionskip{-5pt}
-\caption{GUI of Pi-Calculus Interpreter}
-\label{PiCalculusInterpreter}
-\end{figure}
+
+
+<img
+src=“figures/picInterpreterGUI.PNG”
+raw=true
+alt=“GUI of Pi-Calculus Interpreter”
+style=“margin-right: 10px;”
+/>
