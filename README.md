@@ -1,5 +1,6 @@
 # Pi-Calculus-Interpreter-Simulator
-A python implementation of Pi-Calculus Interpreter and Simulator
+A python implementation of Pi-Calculus Interpreter and Simulator  
+
 A project of course CISC 465
 
 | Syntax  | Description  |  
