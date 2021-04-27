@@ -19,7 +19,7 @@ A project of course CISC 465
 All π-Calculus expressions in our Interpreter and Simulator have picExpr as the name of its final expression.  
   
   \begin{figure}[H]
-\centerline{\includegraphics[width=0.8\textwidth]{https://github.com/Ruikang07/Pi-Calculus-Interpreter-Simulator/blob/b595949a5fa6817ae066c1e8ad3ea6b246ac9bf7/figures/picInterpreterGUI.PNG}}
+\centerline{\includegraphics[width=0.8\textwidth]{figures/picInterpreterGUI.PNG}}
 \setlength\abovecaptionskip{-5pt}
 \caption{GUI of Pi-Calculus Interpreter}
 \label{PiCalculusInterpreter}
