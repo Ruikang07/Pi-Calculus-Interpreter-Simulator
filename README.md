@@ -21,7 +21,7 @@ All π-Calculus expressions in our Interpreter and Simulator have picExpr as the
 
 
 <img
-src=“./figures/picInterpreterGUI.PNG”
+src=“https://github.com/Ruikang07/Pi-Calculus-Interpreter-Simulator/blob/b595949a5fa6817ae066c1e8ad3ea6b246ac9bf7/figures/picInterpreterGUI.PNG”
 raw=true
 alt=“GUI of Pi-Calculus Interpreter”
 style=“margin-right: 10px;”
