@@ -18,6 +18,11 @@ A project of course CISC 465
  
 All π-Calculus expressions in our Interpreter and Simulator have picExpr as the name of its final expression.  
   
-
+  
+GUI of Interpreter
 <img width="964" alt="GUI of Pi-Calculus Interpreter" src="https://github.com/Ruikang07/Pi-Calculus-Interpreter-Simulator/blob/b595949a5fa6817ae066c1e8ad3ea6b246ac9bf7/figures/picInterpreterGUI.PNG">
+  
+  
+GUI of Simulator
+<img width="964" alt="GUI of Pi-Calculus Simulator" src="https://github.com/Ruikang07/Pi-Calculus-Interpreter-Simulator/blob/b565d8884cb29c95dca2c0e3f57caeab43d9d0a0/figures/picSimulatorGUI.PNG">
 
