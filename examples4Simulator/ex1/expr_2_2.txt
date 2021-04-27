@@ -1,0 +1,5 @@
+mu1::= 'mu1_msc<start.mu1_msc>x1.x1<'+msgMU1 
+mu2:= mu2_msc>x2.x2>msgMU2
+ms2:= ms2_msc>x3.ms2_msc>x4.x3>msg.x4<msg
+msc:= mu1_msc>x5.ms2_msc<mu1_ms2.ms2_msc<ms2_mu2.mu2_msc<ms2_mu2.mu1_msc<mu1_ms2
+picExpr::= mu1|msc|ms2|mu2
