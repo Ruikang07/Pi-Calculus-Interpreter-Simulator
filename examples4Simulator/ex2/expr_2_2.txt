@@ -1,0 +1,7 @@
+mu1U::= 'mu1U_mscU<start.mu1U_mscU>muU_msU_1.muU_msU_1<'+msgMU1   
+mu2D:= mu2D_mscD>msD_muD_2.msD_muD_2>msgMU2
+ms2U:= ms2U_mscU>muU_msU_3.ms2U_mscU>msU_msD_3.muU_msU_3>x3.msU_msD_3<x3
+ms2D:= ms2D_mscD>msU_msD_4.ms2D_mscD>msD_muD_4.msU_msD_4>msg4.msD_muD_4<msg4
+mscU:= mu1U_mscU>x5.mu1U_mscU<mu1U_ms2U.ms2U_mscU<mu1U_ms2U.ms2U_mscU<ms2U_ms2D.mscU_mscD<x5
+mscD:= mscU_mscD>x6.ms2D_mscD<ms2U_ms2D.ms2D_mscD<ms2D_mu2D.mu2D_mscD<ms2D_mu2D
+picExpr::= mu1U|mscU|mscD|ms2U|ms2D|mu2D
