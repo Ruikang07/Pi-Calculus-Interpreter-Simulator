@@ -20,6 +20,3 @@ All π-Calculus expressions in our Interpreter and Simulator have picExpr as the
   
 
 
-<img
-src=“./picInterpreterGUI.jpg”
->
