@@ -1,0 +1,4 @@
+P := x<y
+Q := x>u.u<v
+R := x<z
+picExpr ::= P|Q|R
